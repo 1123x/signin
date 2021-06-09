@@ -1,0 +1,70 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 3392089, 2017-05-19T15:12:04-0400
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: CorporativeSoft-RegularIt by Latinotype
+ * URL: https://www.myfonts.com/fonts/latinotype/corporative-soft/regular-italic/
+ * 
+ * Webfont: CorporativeSoft-Light by Latinotype
+ * URL: https://www.myfonts.com/fonts/latinotype/corporative-soft/light/
+ * 
+ * Webfont: CorporativeSoft-LightIt by Latinotype
+ * URL: https://www.myfonts.com/fonts/latinotype/corporative-soft/light-italic/
+ * 
+ * Webfont: CorporativeSoft-Regular by Latinotype
+ * URL: https://www.myfonts.com/fonts/latinotype/corporative-soft/regular/
+ * 
+ * Webfont: CorporativeSoft-Black by Latinotype
+ * URL: https://www.myfonts.com/fonts/latinotype/corporative-soft/black/
+ * 
+ * Webfont: CorporativeSoft-BlackIt by Latinotype
+ * URL: https://www.myfonts.com/fonts/latinotype/corporative-soft/black-italic/
+ * 
+ * Webfont: CorporativeSoft-Bold by Latinotype
+ * URL: https://www.myfonts.com/fonts/latinotype/corporative-soft/bold/
+ * 
+ * Webfont: CorporativeSoft-BoldIt by Latinotype
+ * URL: https://www.myfonts.com/fonts/latinotype/corporative-soft/bold-italic/
+ * 
+ * 
+ * License: https://www.myfonts.com/viewlicense?type=web&buildid=3392089
+ * Licensed pageviews: 300,000
+ * Webfonts copyright: Latinotype
+ * 
+ * © 2017 MyFonts Inc
+*/
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("//hello.myfonts.net/count/33c259");
+
+  
+@font-face {font-family: 'CorporativeSoft-RegularIt';src: url('webfonts/33C259_0_0.eot');src: url('webfonts/33C259_0_0.eot?#iefix') format('embedded-opentype'),url('webfonts/33C259_0_0.woff2') format('woff2'),url('webfonts/33C259_0_0.woff') format('woff'),url('webfonts/33C259_0_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'CorporativeSoft-Light';src: url('webfonts/33C259_1_0.eot');src: url('webfonts/33C259_1_0.eot?#iefix') format('embedded-opentype'),url('webfonts/33C259_1_0.woff2') format('woff2'),url('webfonts/33C259_1_0.woff') format('woff'),url('webfonts/33C259_1_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'CorporativeSoft-LightIt';src: url('webfonts/33C259_2_0.eot');src: url('webfonts/33C259_2_0.eot?#iefix') format('embedded-opentype'),url('webfonts/33C259_2_0.woff2') format('woff2'),url('webfonts/33C259_2_0.woff') format('woff'),url('webfonts/33C259_2_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'CorporativeSoft-Regular';src: url('webfonts/33C259_3_0.eot');src: url('webfonts/33C259_3_0.eot?#iefix') format('embedded-opentype'),url('webfonts/33C259_3_0.woff2') format('woff2'),url('webfonts/33C259_3_0.woff') format('woff'),url('webfonts/33C259_3_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'CorporativeSoft-Black';src: url('webfonts/33C259_4_0.eot');src: url('webfonts/33C259_4_0.eot?#iefix') format('embedded-opentype'),url('webfonts/33C259_4_0.woff2') format('woff2'),url('webfonts/33C259_4_0.woff') format('woff'),url('webfonts/33C259_4_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'CorporativeSoft-BlackIt';src: url('webfonts/33C259_5_0.eot');src: url('webfonts/33C259_5_0.eot?#iefix') format('embedded-opentype'),url('webfonts/33C259_5_0.woff2') format('woff2'),url('webfonts/33C259_5_0.woff') format('woff'),url('webfonts/33C259_5_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'CorporativeSoft-Bold';src: url('webfonts/33C259_6_0.eot');src: url('webfonts/33C259_6_0.eot?#iefix') format('embedded-opentype'),url('webfonts/33C259_6_0.woff2') format('woff2'),url('webfonts/33C259_6_0.woff') format('woff'),url('webfonts/33C259_6_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'CorporativeSoft-BoldIt';src: url('webfonts/33C259_7_0.eot');src: url('webfonts/33C259_7_0.eot?#iefix') format('embedded-opentype'),url('webfonts/33C259_7_0.woff2') format('woff2'),url('webfonts/33C259_7_0.woff') format('woff'),url('webfonts/33C259_7_0.ttf') format('truetype');}
+ 
